@@ -1,0 +1,108 @@
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\Dominio.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\Dominio.pdb
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\Presentacion.Login.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.GenerateResource.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfoInputs.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfo.cs
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CopyComplete
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\Presentacion.genruntimeconfig.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\Dominio.dll.config
+C:\Users\Juanes\Desktop\elysiumchk\gde\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.charge.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.FormPrincipal.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.nocharge.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\Presentacion.Registro.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\GDE.exe
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\GDE.deps.json
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\GDE.runtimeconfig.json
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\GDE.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\ref\GDE.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\GDE.pdb
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\GDE.Properties.Resources.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\GDE.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\ref\GDE.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\GDE.pdb
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\bin\Debug\net6.0-windows\WebDriver.Support.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.ResolveComReference.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\Presentacion.peru.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Presentacion\obj\Debug\net6.0-windows\Presentacion.amazon.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\GDE.exe
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\GDE.deps.json
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\GDE.runtimeconfig.json
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\GDE.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\ref\GDE.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\GDE.pdb
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\WebDriver.Support.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\Dominio.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\Dominio.pdb
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\bin\Debug\net6.0-windows\Dominio.dll.config
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.ResolveComReference.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.amazon.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.charge.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.FormPrincipal.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.Login.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.nocharge.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.peru.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\GDE.Properties.Resources.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.Registro.resources
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.GenerateResource.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfoInputs.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfo.cs
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CopyComplete
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\GDE.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\ref\GDE.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\GDE.pdb
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.genruntimeconfig.cache
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\GDE.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\GDE.pdb
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Debug\net6.0-windows\GDE.exe
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Debug\net6.0-windows\GDE.deps.json
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Debug\net6.0-windows\GDE.runtimeconfig.json
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Debug\net6.0-windows\GDE.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Debug\net6.0-windows\GDE.pdb
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Debug\net6.0-windows\WebDriver.Support.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Debug\net6.0-windows\Dominio.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Debug\net6.0-windows\Dominio.pdb
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Debug\net6.0-windows\Dominio.dll.config
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.AssemblyReference.cache
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.ResolveComReference.cache
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.amazon.resources
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.charge.resources
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.FormPrincipal.resources
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.Login.resources
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.nocharge.resources
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.peru.resources
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\GDE.Properties.Resources.resources
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.Registro.resources
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.GenerateResource.cache
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfoInputs.cache
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfo.cs
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CopyComplete
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\refint\GDE.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\Presentacion.genruntimeconfig.cache
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\obj\Debug\net6.0-windows\ref\GDE.dll

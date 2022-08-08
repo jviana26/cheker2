@@ -1,0 +1,9 @@
+C:\Users\Juanes\Desktop\gde 1.1.3\GDE.pdb
+C:\Users\Juanes\Desktop\gde 1.1.3\D3DCompiler_47_cor3.dll
+C:\Users\Juanes\Desktop\gde 1.1.3\PenImc_cor3.dll
+C:\Users\Juanes\Desktop\gde 1.1.3\PresentationNative_cor3.dll
+C:\Users\Juanes\Desktop\gde 1.1.3\vcruntime140_cor3.dll
+C:\Users\Juanes\Desktop\gde 1.1.3\wpfgfx_cor3.dll
+C:\Users\Juanes\Desktop\gde 1.1.3\Dominio.pdb
+C:\Users\Juanes\Desktop\gde 1.1.3\Dominio.dll.config
+C:\Users\Juanes\Desktop\gde 1.1.3\GDE.exe

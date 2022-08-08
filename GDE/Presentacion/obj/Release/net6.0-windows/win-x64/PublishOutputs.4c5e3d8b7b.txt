@@ -1,0 +1,12 @@
+C:\Users\Juanes\Desktop\gde 1.1\GDE.pdb
+C:\Users\Juanes\Desktop\gde 1.1\Dominio.pdb
+C:\Users\Juanes\Desktop\gde 1.1\Dominio.dll.config
+C:\Users\Juanes\Desktop\gde 1.1\Datos.pdb
+C:\Users\Juanes\Desktop\gde 1.1\Datos.dll.config
+C:\Users\Juanes\Desktop\gde 1.1\MySql.Data.xml
+C:\Users\Juanes\Desktop\gde 1.1\Google.Protobuf.pdb
+C:\Users\Juanes\Desktop\gde 1.1\Google.Protobuf.xml
+C:\Users\Juanes\Desktop\gde 1.1\K4os.Compression.LZ4.Streams.xml
+C:\Users\Juanes\Desktop\gde 1.1\K4os.Compression.LZ4.xml
+C:\Users\Juanes\Desktop\gde 1.1\K4os.Hash.xxHash.xml
+C:\Users\Juanes\Desktop\gde 1.1\GDE.exe

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Presentacion": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

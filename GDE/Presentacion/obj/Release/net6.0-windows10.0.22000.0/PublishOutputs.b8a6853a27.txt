@@ -1,0 +1,16 @@
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\GDE.exe
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\GDE.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\GDE.deps.json
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\GDE.runtimeconfig.json
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\GDE.pdb
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\Microsoft.Windows.SDK.NET.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\WinRT.Runtime.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\Newtonsoft.Json.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\RestSharp.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\WebDriver.Support.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\WebDriver.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\System.Management.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\Dominio.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\Dominio.pdb
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\Dominio.dll.config

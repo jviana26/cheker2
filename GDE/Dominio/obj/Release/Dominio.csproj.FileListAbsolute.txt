@@ -1,0 +1,39 @@
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Release\Dominio.dll.config
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Release\Dominio.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Release\Dominio.pdb
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Release\Json.Net.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Release\Newtonsoft.Json.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Release\System.CodeDom.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Release\Newtonsoft.Json.xml
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Release\System.CodeDom.xml
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\obj\Release\Dominio.csproj.AssemblyReference.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\obj\Release\Dominio.csproj.CopyComplete
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\obj\Release\Dominio.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\obj\Release\Dominio.pdb
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Release\Dominio.dll.config
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Release\Dominio.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Release\Dominio.pdb
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Release\Json.Net.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Release\Newtonsoft.Json.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Release\System.CodeDom.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Release\Newtonsoft.Json.xml
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Release\System.CodeDom.xml
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\obj\Release\Dominio.csproj.AssemblyReference.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\obj\Release\Dominio.csproj.CopyComplete
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\obj\Release\Dominio.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\obj\Release\Dominio.pdb
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Release\Dominio.dll.config
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Release\Dominio.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Release\Dominio.pdb
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Release\Json.Net.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Release\Newtonsoft.Json.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Release\System.CodeDom.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Release\Newtonsoft.Json.xml
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Release\System.CodeDom.xml
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\obj\Release\Dominio.csproj.AssemblyReference.cache
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\obj\Release\Dominio.csproj.CopyComplete
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\obj\Release\Dominio.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\obj\Release\Dominio.pdb

@@ -1,0 +1,52 @@
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Debug\Dominio.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\obj\Debug\Dominio.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Debug\System.CodeDom.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Debug\System.CodeDom.xml
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Debug\Json.Net.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\gde\Dominio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Debug\Dominio.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Debug\Json.Net.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Debug\System.CodeDom.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\bin\Debug\System.CodeDom.xml
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\obj\Debug\Dominio.dll
+C:\Users\Juanes\Desktop\elysiumchk\gde\Nueva carpeta\GDE\Dominio\obj\Debug\Dominio.pdb
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Debug\Dominio.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Debug\Dominio.pdb
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Debug\Json.Net.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Debug\System.CodeDom.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\bin\Debug\System.CodeDom.xml
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\obj\Debug\Dominio.dll
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Dominio\obj\Debug\Dominio.pdb
+C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\bin\Debug\Dominio.dll.config
+C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\bin\Debug\Dominio.dll
+C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\bin\Debug\Dominio.pdb
+C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\bin\Debug\Json.Net.dll
+C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\bin\Debug\Newtonsoft.Json.dll
+C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\bin\Debug\System.CodeDom.dll
+C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\bin\Debug\Newtonsoft.Json.xml
+C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\bin\Debug\System.CodeDom.xml
+C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\obj\Debug\Dominio.dll
+C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\obj\Debug\Dominio.pdb

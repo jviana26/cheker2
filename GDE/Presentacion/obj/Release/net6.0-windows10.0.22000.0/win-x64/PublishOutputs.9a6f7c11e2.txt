@@ -1,0 +1,4 @@
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\publish\GDE.pdb
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\publish\Dominio.pdb
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\publish\Dominio.dll.config
+C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\publish\GDE.exe

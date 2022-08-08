@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GDE</id>
+    <version>1.0.0</version>
+    <authors>GDE</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows10.0.22000">
+        <dependency id="Dominio" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="NETStandard.Library" version="2.0.3" exclude="Build,Analyzers" />
+        <dependency id="RestSharp" version="107.3.0" exclude="Build,Analyzers" />
+        <dependency id="Selenium.Support" version="4.1.0" exclude="Build,Analyzers" />
+        <dependency id="Selenium.WebDriver" version="4.1.0" exclude="Build,Analyzers" />
+        <dependency id="Selenium.WebDriver.ChromeDriver" version="98.0.4758.10200" exclude="Build,Analyzers" />
+        <dependency id="System.Management" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows10.0.22000">
+        <frameworkReference name="Microsoft.WindowsDesktop.App" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows10.0.22000/revo.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\net6.0-windows10.0.22000.0\GDE.runtimeconfig.json" target="lib\net6.0-windows10.0.22000\GDE.runtimeconfig.json" />
+    <file src="C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\bin\Release\net6.0-windows10.0.22000.0\GDE.dll" target="lib\net6.0-windows10.0.22000\GDE.dll" />
+    <file src="C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\revo.ico" target="content\revo.ico" />
+    <file src="C:\Users\UnderSky\Desktop\aplicaciones\revision\GDE\Presentacion\revo.ico" target="contentFiles\any\net6.0-windows10.0.22000\revo.ico" />
+  </files>
+</package>
