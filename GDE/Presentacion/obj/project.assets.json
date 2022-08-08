@@ -3234,11 +3234,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\wamp64\\www\\Nueva carpeta\\1\\GDE\\Presentacion\\Presentacion.csproj",
+      "projectUniqueName": "C:\\wamp64\\www\\cheker2\\GDE\\Presentacion\\Presentacion.csproj",
       "projectName": "GDE",
-      "projectPath": "C:\\wamp64\\www\\Nueva carpeta\\1\\GDE\\Presentacion\\Presentacion.csproj",
+      "projectPath": "C:\\wamp64\\www\\cheker2\\GDE\\Presentacion\\Presentacion.csproj",
       "packagesPath": "C:\\Users\\jviana\\.nuget\\packages\\",
-      "outputPath": "C:\\wamp64\\www\\Nueva carpeta\\1\\GDE\\Presentacion\\obj\\",
+      "outputPath": "C:\\wamp64\\www\\cheker2\\GDE\\Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jviana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3255,8 +3255,8 @@
         "net6.0-windows10.0.22000": {
           "targetAlias": "net6.0-windows10.0.22000.0",
           "projectReferences": {
-            "C:\\wamp64\\www\\Nueva carpeta\\1\\GDE\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\wamp64\\www\\Nueva carpeta\\1\\GDE\\Dominio\\Dominio.csproj"
+            "C:\\wamp64\\www\\cheker2\\GDE\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\wamp64\\www\\cheker2\\GDE\\Dominio\\Dominio.csproj"
             }
           }
         }

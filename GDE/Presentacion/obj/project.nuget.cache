@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KkYrynEmSfdPr4kebTR64EkiRaW27BTo1XPXh3aTMzVXYvvfjK4KOd4y9Cm6d0ZMy+zyuejN94tmKIntXB8vZA==",
+  "dgSpecHash": "7u/VfitG1HVBh7sRndg1weOBDTRw3/Kd65OpJ5FtOio5Tfz8aHpmqeyPEUUrLel+HXRFfguITBI6TdgACmEVIA==",
   "success": true,
-  "projectFilePath": "C:\\wamp64\\www\\Nueva carpeta\\1\\GDE\\Presentacion\\Presentacion.csproj",
+  "projectFilePath": "C:\\wamp64\\www\\cheker2\\GDE\\Presentacion\\Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jviana\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\jviana\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

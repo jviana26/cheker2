@@ -74,3 +74,41 @@ C:\wamp64\www\Nueva carpeta\1\GDE\Presentacion\obj\Debug\net6.0-windows10.0.2200
 C:\wamp64\www\Nueva carpeta\1\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\GDE.pdb
 C:\wamp64\www\Nueva carpeta\1\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.genruntimeconfig.cache
 C:\wamp64\www\Nueva carpeta\1\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\ref\GDE.dll
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\GDE.exe
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\GDE.deps.json
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\GDE.runtimeconfig.json
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\GDE.dll
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\GDE.pdb
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\Newtonsoft.Json.dll
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\RestSharp.dll
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\WebDriver.Support.dll
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\WebDriver.dll
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\System.Management.dll
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Management.dll
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Windows.SDK.NET.dll
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\WinRT.Runtime.dll
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\Dominio.dll
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\Dominio.pdb
+C:\wamp64\www\cheker2\GDE\Presentacion\bin\Debug\net6.0-windows10.0.22000.0\Dominio.dll.config
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.csproj.AssemblyReference.cache
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Interop.WMPLib.dll
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.csproj.ResolveComReference.cache
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.amazon.resources
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.charge.resources
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.FormPrincipal.resources
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.Login.resources
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.nocharge.resources
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.peru.resources
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\GDE.Properties.Resources.resources
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.Registro.resources
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.csproj.GenerateResource.cache
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.AssemblyInfoInputs.cache
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.AssemblyInfo.cs
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.csproj.CoreCompileInputs.cache
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.csproj.CopyComplete
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\GDE.dll
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\refint\GDE.dll
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\GDE.pdb
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\Presentacion.genruntimeconfig.cache
+C:\wamp64\www\cheker2\GDE\Presentacion\obj\Debug\net6.0-windows10.0.22000.0\ref\GDE.dll

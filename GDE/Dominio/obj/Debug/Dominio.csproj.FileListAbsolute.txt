@@ -50,3 +50,16 @@ C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\obj\Debug\Dominio.csproj.CoreCompileIn
 C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\obj\Debug\Dominio.csproj.CopyComplete
 C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\obj\Debug\Dominio.dll
 C:\wamp64\www\Nueva carpeta\1\GDE\Dominio\obj\Debug\Dominio.pdb
+C:\wamp64\www\cheker2\GDE\Dominio\bin\Debug\Dominio.dll.config
+C:\wamp64\www\cheker2\GDE\Dominio\bin\Debug\Dominio.dll
+C:\wamp64\www\cheker2\GDE\Dominio\bin\Debug\Dominio.pdb
+C:\wamp64\www\cheker2\GDE\Dominio\bin\Debug\Json.Net.dll
+C:\wamp64\www\cheker2\GDE\Dominio\bin\Debug\Newtonsoft.Json.dll
+C:\wamp64\www\cheker2\GDE\Dominio\bin\Debug\System.CodeDom.dll
+C:\wamp64\www\cheker2\GDE\Dominio\bin\Debug\Newtonsoft.Json.xml
+C:\wamp64\www\cheker2\GDE\Dominio\bin\Debug\System.CodeDom.xml
+C:\wamp64\www\cheker2\GDE\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\wamp64\www\cheker2\GDE\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\wamp64\www\cheker2\GDE\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\wamp64\www\cheker2\GDE\Dominio\obj\Debug\Dominio.dll
+C:\wamp64\www\cheker2\GDE\Dominio\obj\Debug\Dominio.pdb
