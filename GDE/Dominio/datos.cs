@@ -17,7 +17,7 @@ namespace Dominio
         {
             using (var client = new HttpClient())
             {
-                string url = "http://golpedeestadochk.xyz/checker/log.php?disco=" + disco;
+                string url = "http://golpedeestadochek.xyz/checker/log.php?disco=" + disco;
                 client.DefaultRequestHeaders.Clear();
                 var response = client.GetAsync(url).Result;
                 var res = response.Content.ReadAsStringAsync().Result;
@@ -25,7 +25,7 @@ namespace Dominio
                 {
                     using (var clientt = new HttpClient())
                     {
-                        string urel = "http://golpedeestadochk.xyz/checker/info.php?disco=" + disco;
+                        string urel = "http://golpedeestadochek.xyz/checker/info.php?disco=" + disco;
                         clientt.DefaultRequestHeaders.Clear();
                         var responsee = clientt.GetAsync(urel).Result;
                         var ress = responsee.Content.ReadAsStringAsync().Result;
@@ -55,7 +55,7 @@ namespace Dominio
         {
             using (var client = new HttpClient())
             {
-                string url = "http://golpedeestadochk.xyz/checker/register.php?user=" + user + "&licencia=" + licencia + "&disco=" + disco;
+                string url = "http://golpedeestadochek.xyz/checker/register.php?user=" + user + "&licencia=" + licencia + "&disco=" + disco;
                 client.DefaultRequestHeaders.Clear();
                 var response = client.GetAsync(url).Result;
                 var res = response.Content.ReadAsStringAsync().Result;
@@ -63,7 +63,7 @@ namespace Dominio
                 {
                     using (var clientt = new HttpClient())
                     {
-                        string urel = "http://golpedeestadochk.xyz/checker/info.php?disco=" + disco;
+                        string urel = "http://golpedeestadochek.xyz/checker/info.php?disco=" + disco;
                         clientt.DefaultRequestHeaders.Clear();
                         var responsee = clientt.GetAsync(urel).Result;
                         var ress = responsee.Content.ReadAsStringAsync().Result;
@@ -85,7 +85,7 @@ namespace Dominio
         {
             using (var client = new HttpClient())
             {
-                string url = "http://golpedeestadochk.xyz/checker/descontarcreditos.php?user=" + user;
+                string url = "http://golpedeestadochek.xyz/checker/descontarcreditos.php?user=" + user;
                 client.DefaultRequestHeaders.Clear();
                 var response = client.GetAsync(url).Result;
                 var res = response.Content.ReadAsStringAsync().Result;
@@ -97,7 +97,7 @@ namespace Dominio
         {
             using (var client = new HttpClient())
             {
-                string url = "http://golpedeestadochk.xyz/checker/lives.php?cc=" + cc + "&user=" + user + "&gate="+gate;
+                string url = "http://golpedeestadochek.xyz/checker/lives.php?cc=" + cc + "&user=" + user + "&gate="+gate;
                 client.DefaultRequestHeaders.Clear();
                 var response = client.GetAsync(url).Result;
                 var res = response.Content.ReadAsStringAsync().Result;

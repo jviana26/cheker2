@@ -763,6 +763,9 @@ namespace Presentacion
             }
         }
 
+        private void vtnlogin_Paint(object sender, PaintEventArgs e)
+        {
 
+        }
     }
 }
