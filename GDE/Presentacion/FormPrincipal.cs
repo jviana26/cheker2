@@ -133,13 +133,15 @@ namespace Presentacion
         private void button3_Click(object sender, EventArgs e)
         {
             AbrirFormulario<charge>();
-            button3.BackColor = Color.DimGray;
+            PanelBienvenida.Controls.Clear();
+            PanelBienvenida.Hide();
+            
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             AbrirFormulario<nocharge>();
-            button1.BackColor = Color.DimGray;
         }
 
         private void creditos_Click(object sender, EventArgs e)
@@ -240,13 +242,11 @@ namespace Presentacion
         private void button2_Click(object sender, EventArgs e)
         {
             AbrirFormulario<peru>();
-            button2.BackColor = Color.DimGray;
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
             AbrirFormulario<amazon>();
-            button4.BackColor = Color.DimGray;
         }
     }
 }

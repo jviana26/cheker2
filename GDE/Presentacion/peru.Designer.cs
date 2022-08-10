@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(peru));
             this.btniniciar = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
@@ -72,7 +72,7 @@
             this.btniniciar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btniniciar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.btniniciar.ForeColor = System.Drawing.Color.White;
-            this.btniniciar.Location = new System.Drawing.Point(953, 19);
+            this.btniniciar.Location = new System.Drawing.Point(949, 63);
             this.btniniciar.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.btniniciar.Name = "btniniciar";
             this.btniniciar.Size = new System.Drawing.Size(97, 41);
@@ -86,7 +86,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label4.ForeColor = System.Drawing.Color.DimGray;
-            this.label4.Location = new System.Drawing.Point(648, 112);
+            this.label4.Location = new System.Drawing.Point(651, 103);
             this.label4.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(59, 25);
@@ -102,7 +102,7 @@
             this.btnpausa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnpausa.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnpausa.ForeColor = System.Drawing.Color.White;
-            this.btnpausa.Location = new System.Drawing.Point(368, 552);
+            this.btnpausa.Location = new System.Drawing.Point(371, 543);
             this.btnpausa.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.btnpausa.Name = "btnpausa";
             this.btnpausa.Size = new System.Drawing.Size(130, 56);
@@ -119,7 +119,7 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(230, 553);
+            this.button1.Location = new System.Drawing.Point(233, 544);
             this.button1.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(130, 56);
@@ -133,7 +133,7 @@
             this.lbldead.AutoSize = true;
             this.lbldead.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lbldead.ForeColor = System.Drawing.Color.DimGray;
-            this.lbldead.Location = new System.Drawing.Point(170, 338);
+            this.lbldead.Location = new System.Drawing.Point(173, 329);
             this.lbldead.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lbldead.Name = "lbldead";
             this.lbldead.Size = new System.Drawing.Size(48, 25);
@@ -146,7 +146,7 @@
             this.lblive.AutoSize = true;
             this.lblive.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lblive.ForeColor = System.Drawing.Color.DimGray;
-            this.lblive.Location = new System.Drawing.Point(170, 136);
+            this.lblive.Location = new System.Drawing.Point(173, 127);
             this.lblive.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblive.Name = "lblive";
             this.lblive.Size = new System.Drawing.Size(48, 25);
@@ -159,7 +159,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label2.ForeColor = System.Drawing.Color.DimGray;
-            this.label2.Location = new System.Drawing.Point(89, 336);
+            this.label2.Location = new System.Drawing.Point(92, 327);
             this.label2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(71, 25);
@@ -171,7 +171,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.Color.DimGray;
-            this.label1.Location = new System.Drawing.Point(89, 136);
+            this.label1.Location = new System.Drawing.Point(92, 127);
             this.label1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(59, 25);
@@ -185,7 +185,7 @@
             this.lives.ForeColor = System.Drawing.Color.Green;
             this.lives.FormattingEnabled = true;
             this.lives.ItemHeight = 20;
-            this.lives.Location = new System.Drawing.Point(95, 171);
+            this.lives.Location = new System.Drawing.Point(98, 162);
             this.lives.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.lives.Name = "lives";
             this.lives.Size = new System.Drawing.Size(538, 160);
@@ -199,7 +199,7 @@
             this.deads.ForeColor = System.Drawing.Color.Red;
             this.deads.FormattingEnabled = true;
             this.deads.ItemHeight = 20;
-            this.deads.Location = new System.Drawing.Point(90, 371);
+            this.deads.Location = new System.Drawing.Point(93, 362);
             this.deads.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.deads.Name = "deads";
             this.deads.Size = new System.Drawing.Size(538, 160);
@@ -213,7 +213,7 @@
             this.btnlimpiar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnlimpiar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnlimpiar.ForeColor = System.Drawing.Color.White;
-            this.btnlimpiar.Location = new System.Drawing.Point(506, 551);
+            this.btnlimpiar.Location = new System.Drawing.Point(509, 542);
             this.btnlimpiar.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.btnlimpiar.Name = "btnlimpiar";
             this.btnlimpiar.Size = new System.Drawing.Size(130, 56);
@@ -227,7 +227,7 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label3.ForeColor = System.Drawing.Color.DimGray;
-            this.label3.Location = new System.Drawing.Point(649, 617);
+            this.label3.Location = new System.Drawing.Point(652, 608);
             this.label3.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(81, 25);
@@ -239,7 +239,7 @@
             this.lblstatus.AutoSize = true;
             this.lblstatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lblstatus.ForeColor = System.Drawing.Color.DimGray;
-            this.lblstatus.Location = new System.Drawing.Point(728, 617);
+            this.lblstatus.Location = new System.Drawing.Point(731, 608);
             this.lblstatus.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblstatus.Name = "lblstatus";
             this.lblstatus.Size = new System.Drawing.Size(72, 25);
@@ -255,16 +255,16 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.ColumnHeadersVisible = false;
             this.dataGridView1.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
-            this.dataGridView1.Location = new System.Drawing.Point(654, 147);
+            this.dataGridView1.Location = new System.Drawing.Point(657, 138);
             this.dataGridView1.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersVisible = false;
             this.dataGridView1.RowHeadersWidth = 51;
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(25)))), ((int)(((byte)(25)))), ((int)(((byte)(25)))));
-            this.dataGridView1.RowsDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(25)))), ((int)(((byte)(25)))), ((int)(((byte)(25)))));
+            this.dataGridView1.RowsDefaultCellStyle = dataGridViewCellStyle1;
             this.dataGridView1.Size = new System.Drawing.Size(274, 467);
             this.dataGridView1.TabIndex = 42;
             // 
@@ -273,7 +273,7 @@
             this.lblContador.AutoSize = true;
             this.lblContador.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lblContador.ForeColor = System.Drawing.Color.White;
-            this.lblContador.Location = new System.Drawing.Point(885, 112);
+            this.lblContador.Location = new System.Drawing.Point(888, 103);
             this.lblContador.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblContador.Name = "lblContador";
             this.lblContador.Size = new System.Drawing.Size(43, 22);
@@ -290,7 +290,7 @@
             this.btncargar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btncargar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btncargar.ForeColor = System.Drawing.Color.White;
-            this.btncargar.Location = new System.Drawing.Point(90, 552);
+            this.btncargar.Location = new System.Drawing.Point(93, 543);
             this.btncargar.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.btncargar.Name = "btncargar";
             this.btncargar.Size = new System.Drawing.Size(130, 56);
@@ -306,7 +306,7 @@
             this.label6.ForeColor = System.Drawing.Color.DimGray;
             this.label6.Image = ((System.Drawing.Image)(resources.GetObject("label6.Image")));
             this.label6.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label6.Location = new System.Drawing.Point(16, 19);
+            this.label6.Location = new System.Drawing.Point(14, 40);
             this.label6.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(254, 25);
@@ -331,7 +331,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label5.ForeColor = System.Drawing.Color.Silver;
-            this.label5.Location = new System.Drawing.Point(431, 19);
+            this.label5.Location = new System.Drawing.Point(427, 63);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(417, 25);
             this.label5.TabIndex = 0;
@@ -340,7 +340,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(936, 578);
+            this.pictureBox1.Location = new System.Drawing.Point(939, 569);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(118, 91);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
